@@ -23,9 +23,25 @@ img
 }
 a:hover
 {
-  color: red;
+  color: #3C4048;
 }
 .insta:hover
 {
-  colour: purple;   
+  color:#FF8DC7;
+}
+.linkedin:hover
+{
+  color:blue;
+}
+input:hover
+{
+  background-color: #EAEAEA;
+}
+.submit:hover
+{
+  background-color: grey ;
+}
+a:active
+{
+  color: red;
 }
