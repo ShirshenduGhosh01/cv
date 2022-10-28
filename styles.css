@@ -1,0 +1,31 @@
+body{
+  background-color: #EAEAEA;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #3C4048;
+  border-width: 5px;
+  width: 10%;
+}
+h1
+{
+  color: #00ABB3;
+}
+h3
+{
+  color: #00ABB3;
+}
+img
+{
+  background-color: #B2B2B2;
+  border-radius: 200%;
+}
+a:hover
+{
+  color: red;
+}
+.insta:hover
+{
+  colour: purple;   
+}
